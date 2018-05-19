@@ -1,0 +1,9 @@
+[package]
+name = "schema"
+version = "0.1.0"
+authors = ["David Raifaizen <d-raif@hotmail.com>"]
+
+[dependencies]
+serde_json = "*"
+serde-xml-rs = "*"
+serde = "*"
